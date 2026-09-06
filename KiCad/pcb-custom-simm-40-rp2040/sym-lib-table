@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "pcb-custom-simm-40-rp2040-cache") (type "Legacy") (uri "/Users/shishir/Documents/Personal/pcb-custom-simm-40-rp2040/KiCad/pcb-custom-simm-40-rp2040/pcb-custom-simm-40-rp2040-cache.lib") (options "") (descr "Legacy project cache library"))
+)
